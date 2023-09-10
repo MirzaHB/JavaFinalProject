@@ -60,8 +60,4 @@ The program will prompt you to enter the following information:
 > - [Dr. Barcomb]
 > - [Dr. Mohamed]
 
-# # Contact Information:
-If you have any questions or concerns, please contact one of the authors at the following email address:
-[muneeb.ali1@ucalgary.ca]
-
 **Thank you for your interest in _Wildlife Rescue Centre (EWR) Volunteer Schedular_! We hope it is useful and valuable to you.**
